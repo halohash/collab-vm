@@ -1,0 +1,98 @@
+{
+	"languageName": "Magyar",
+	"translatedLanguageName": "Hungarian",
+	"flag": "🇭🇺",
+	"author": "Computernewb Team",
+
+	"stringKeys": {
+		"kGeneric_CollabVM": "CollabVM",
+		"kGeneric_Yes": "Igen",
+		"kGeneric_No": "Nem",
+		"kGeneric_Ok": "OK",
+		"kGeneric_Cancel": "Mégse",
+		"kGeneric_Send": "Küldés",
+		"kGeneric_Understood": "Rendben",
+		"kGeneric_Username": "Felhasználónév",
+		"kGeneric_Password": "Jelszó",
+		"kGeneric_Login": "Bejelentkezés",
+		"kGeneric_Register": "Regisztráció",
+		"kGeneric_EMail": "E-Mail",
+		"kGeneric_DateOfBirth": "Születési dátum",
+		"kGeneric_VerificationCode": "Ellenőrző kód",
+		"kGeneric_Verify": "Ellenőrzés",
+		"kGeneric_Update": "Frissítés",
+		"kGeneric_Logout": "Kijelentkezés",
+		
+		"kWelcomeModal_Header": "Üdvözlünk a CollabVM-en!",
+		"kWelcomeModal_Body": "<p>Mielőtt elkezded használni az oldalt, kérlek ismertesd meg magad a szabályokkal:</p> <h3>R1. Ne szegd meg a törvényt</h3> Ne használd a CollabVM-et, vagy a CollabVM hálózatát arra a célra, hogy megszegd az Egyesült Államok-i, New York-i, vagy más nemzetközi törvényeket. Ha észleljük hogy egy büncselekmény lett elkövetve a CollabVM-en keresztül, azonnal ki leszel tíltva az oldalról, és ha szükségesnek látjuk, a tevékenységeidet jelentjük a hatóságoknak.<br><br>Vedd figyelembe, hogy a törvény szerint szükséges jelentenünk a hatóságoknak, ha gyermekpornográfiát találunk a CollabVM hálózaton, vagy ha azt továbbítják rajta keresztül.<br><br>A CollabVM-en a COPPA törvény is érvényesül, kérlek ne használd ha még nem töltötted be a 13. életéved. <h3>R2. Ne futtass DoS/DDoS programokat.</h3>Ne használd a CollabVM-et arra, hogy DoS/DDoS támadásokat végezz emberek, cégek, vagy bárki más ellen. <h3>R3. Ne terjessz spam-ot.</h3> Ne küldj spam emaileket az oldal használatával, és spamot se terjessz általánosságban.<h3>R4. Ne élj vissza a biztonsági résekkel.</h3>Ne használj ki semmilyen biztonsági rést, ha látod hogy valaki ezt teszi, vagy be szeretnél jelenteni egyet, kérlek vedd fel a kapcsolatot velünk itt: computernewbab@gmail.com<h3>R5. Ne személyesítse meg más felhasználókat.</h3> Ne személyesítse meg a CollabVM más felhasználóit. Ha elkapunk, ideiglenesen kirúgunk az oldalról, és ha szükséges, kitiltunk téged.<h3>R6. Egy szavazás emberen ként.</h3> Ne használj semmilyen módszereket vagy eszközöket arra, hogy kikerüld a szavazás korlátozásokat. Emberenként mindenféleképpen csak egy szavazás engedélyezett. Ha valaki ezt a szabályt megszegi, ki lesz tiltva. <h3>R7. Ne használj távfelügyeleti programokat.</h3> Ne használj semmilyen távfelügyeleti programot (pl: DarkComet, NanoCore, Anydesk, TeamViewer, Orcus, stb.)  <h3>R8. Ne kerüld meg a CollabNet-et.</h3> Ne próbáld megkerülni a CollabNet által biztosított blokkolást, föleg ha azt az 1., 2., vagy 7. szabály megszegésére használnád (vagy hülye, túlhasznált dolgok futtatásra). <h3>R9. Ne végezz romboló műveleteket folyamatosan.</h3> Egy felhasználónak nem szabad tönkre tennie a virtuális gépeket (folyamatosan használhatatlanná tenni), nem telepítheti/újratelepítheti az operációs rendszert (kivéve a VM7-en és VM8-on), és nem futtathat botokat amelyek ezeket megteszik. Ez olyan botokra is számít, amelyek hatalmas mennyiségű billentyűzet/egér bevíteleket spamelnek (\"kit\"-elés). <h3>R10. Tilos a kriptobányászat</h3> A kriptobányászat próbálása a virtuális gépeken elsősorban kirúgást, majd végleges kitiltást eredményez, ha tovább próbálod. Különben is, úgyse fogsz sok pénzt keresni belőle. <h3>NSFW Figyelmeztetés</h3> Kérlek vedd figyelembe, hogy az NSFW tartalmak megtekintése engedélyezve van az anarchia VM-en (VM0b0t), és rendszeresen megtekintik ott. Ezen kívül, bár igyekszünk távol tartni az NSFW tartalmakat a fő virtuális gépektől, az emberek időnként átcsempészik.",
+
+		"kSiteButtons_Home": "Főoldal",
+		"kSiteButtons_FAQ": "GYIK",
+		"kSiteButtons_Rules": "Szabályok",
+		"kSiteButtons_DarkMode": "Sötét mód",
+		"kSiteButtons_LightMode": "Világos mód",
+		"kSiteButtons_Languages": "Nyelv",
+
+		"kVM_UsersOnlineText": "Online felhasználók:",
+
+		"kVM_TurnTimeTimer": "{0} másodpercig van irányításod.",
+		"kVM_WaitingTurnTimer": "{0} másodperc múlva lesz irányításod.",
+		"kVM_VoteCooldownTimer": "Kérlek várj {0} másodpercet egy másik szavazás indítása előtt.",
+
+		"kVM_VoteForResetTitle": "Alaphelyzetbe szeretnéd állítani a virtuális gépet?",
+		"kVM_VoteForResetTimer": "A szavazásnak vége lesz {0} másodperc múlva.",
+
+		"kVMButtons_TakeTurn": "Sorban állás",
+		"kVMButtons_EndTurn": "Sor elhagyása",
+		"kVMButtons_ChangeUsername": "Felhasználónév módosítása",
+		"kVMButtons_Keyboard": "Billentyűzet",
+		"KVMButtons_CtrlAltDel": "Ctrl+Alt+Del",
+
+		"kVMButtons_VoteForReset": "Szavazás az alaphelyzetbe állításért",
+		"kVMButtons_Screenshot": "Képernyőkép",
+
+		"kQEMUMonitor": "QEMU Konzol",
+		"kAdminVMButtons_PassVote": "Szavazás kényzerítése",
+		"kAdminVMButtons_CancelVote": "Szavazás megszakítása",
+
+		"kAdminVMButtons_Restore": "Alaphelyzetbe állítás",
+		"kAdminVMButtons_Reboot": "Újraindítás",
+		"kAdminVMButtons_ClearTurnQueue": "Sor kiürítése",
+		"kAdminVMButtons_BypassTurn": "Sor elejére kerülés",
+		"kAdminVMButtons_IndefiniteTurn": "Végtelen ideig irányítás",
+
+		"kAdminVMButtons_Ban": "Kitiltás",
+		"kAdminVMButtons_Kick": "Kirúgás",
+		"kAdminVMButtons_TempMute": "Ideiglenes Némítás",
+		"kAdminVMButtons_IndefMute": "Némítás örökké",
+		"kAdminVMButtons_Unmute": "Némítás feloldása",
+		"kAdminVMButtons_GetIP": "IP-cím lekérése",
+
+		"kVMPrompts_AdminChangeUsernamePrompt": "Adj új felhasználónevet {0}-nak:",
+		"kVMPrompts_AdminRestoreVMPrompt": "Biztos, hogy alaphelyzetbe szeretnéd állítani a virtuális gépet?",
+		"kVMPrompts_EnterNewUsernamePrompt": "Adj meg egy új felhasználónevet, vagy hagyd üresen ha azt akarod, hogy a rendszer generáljon egyet:",
+
+		"kError_UnexpectedDisconnection": "Kapcsolat megszakadt a szerverrel.",
+		"kError_UsernameTaken": "Ez a felhasználónév már foglalt.",
+		"kError_UsernameInvalid": "A felhasználónévnek 3 és 20 karakter között kell lennie, és csak számokat, betűket, kötőjeleket, aláhúzásokat és pontokat tartalmazhat.",
+		"kError_UsernameBlacklisted": "A megadott felhasználónév tiltólistán van.",
+		"kError_IncorrectPassword": "Helytelen jelszó.",
+
+		"kAccountModal_Verify": "E-Mail visszaigazolása",
+		"kAccountModal_AccountSettings": "Fiókbeállítások",
+		"kAccountModal_ResetPassword": "Jelszó visszaállítása",
+
+		"kAccountModal_NewPassword": "Új Jelszó",
+		"kAccountModal_ConfirmNewPassword": "Új Jelszó megerősítése",
+		"kAccountModal_CurrentPassword": "Jelenlegi Jelszó",
+		"kAccountModal_ConfirmPassword": "Jelszó megerősítése",
+
+		"kMissingCaptcha": "Kérlek oldd meg a CAPTCHA-t.",
+		"kPasswordsMustMatch": "A jelszavaknak egyezniük kell.",
+		"kAccountModal_VerifyText": "Küldtünk egy E-Mailt a(z) {0}-ra. Kérlek írd be az E-Mailben található 8 jegyű kódot az alábbi mezőbe.",
+		"kAccountModal_VerifyPasswordResetText": "Küldtünk egy E-Mailt a(z) {0}-ra. Kérlek írd be az E-Mailben található 8 jegyű kódot az alábbi mezőbe a jelszavad visszaállításához.",
+		"kAccountModal_PasswordResetSuccess": "A jelszavad sikeresen meg lett változtatva. Mostantól bejelentkezhetsz az új jelszavaddal.",
+
+		"kNotLoggedIn": "Nem vagy bejelentkezve."
+	}
+}
