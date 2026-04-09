@@ -5,7 +5,7 @@
 	"author": "Undefishin, lua5.3, Noname",
 
 	"stringKeys": {
-		"kGeneric_CollabVM": "CollabVM",
+		"kGeneric_CollabVM": "HashVM",
 		"kGeneric_Yes": "Да",
 		"kGeneric_No": "Нет",
 		"kGeneric_Ok": "ОК",

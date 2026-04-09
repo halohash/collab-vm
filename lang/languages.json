@@ -75,7 +75,11 @@
 		"tr-tr": {
 			"languageName": "Türkçe",
 			"flag": "🇹🇷"
+		},
+		"pirate": {
+			"languageName": "Pirate",
+			"flag": "🏴‍☠️"
 		}
 	},
-	"defaultLanguage": "en-us"
+	"defaultLanguage": "pirate"
 }

@@ -5,7 +5,7 @@
 	"author": "pikterra",
 
 	"stringKeys": {
-		"kGeneric_CollabVM": "CollabVM",
+		"kGeneric_CollabVM": "HashVM",
 		"kGeneric_Yes": "Oui",
 		"kGeneric_No": "Non",
 		"kGeneric_Ok": "OK",

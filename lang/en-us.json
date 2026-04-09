@@ -5,7 +5,7 @@
 	"author": "Computernewb",
 
 	"stringKeys": {
-		"kGeneric_CollabVM": "CollabVM",
+		"kGeneric_CollabVM": "HashVM",
 		"kGeneric_Yes": "Yes",
 		"kGeneric_No": "No",
 		"kGeneric_Ok": "OK",
